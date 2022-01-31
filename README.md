@@ -14,7 +14,8 @@
         - To view the searched recipes, click on the button “Get Recipe” of a particular recipe.
         - Click on the button “Watch Full Recipe” to open the video of the recipe.
 
-		![Screenshot](screen1.png)
+		![Screenshot](screen/screen1.png)
+		
        ## Built with
        
        * HTML 5 / CSS 3.
