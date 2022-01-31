@@ -14,7 +14,7 @@
         - To view the searched recipes, click on the button “Get Recipe” of a particular recipe.
         - Click on the button “Watch Full Recipe” to open the video of the recipe.
 
-![Screenshot](https://github.com/zahra7/foodRecipe/blob/main/screen/screen1.png)
+![Screenshot](https://github.com/zahra7/foodRecipe/blob/main/screen/screen6.png)
 ![Screenshot](https://github.com/zahra7/foodRecipe/blob/main/screen/screen2.png)
 ![Screenshot](https://github.com/zahra7/foodRecipe/blob/main/screen/screen3.png)
 ![Screenshot](https://github.com/zahra7/foodRecipe/blob/main/screen/screen4.png)
