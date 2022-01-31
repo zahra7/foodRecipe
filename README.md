@@ -14,7 +14,9 @@
         - To view the searched recipes, click on the button “Get Recipe” of a particular recipe.
         - Click on the button “Watch Full Recipe” to open the video of the recipe.
 
-		![Screenshot](screen/screen1.png)
+		<p align="center">
+		  <img src="sreen/screen1.png" title="Screenshort Food Recipes Application">
+		</p>
 		
        ## Built with
        
