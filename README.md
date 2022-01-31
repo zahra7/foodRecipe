@@ -14,12 +14,11 @@
         - To view the searched recipes, click on the button “Get Recipe” of a particular recipe.
         - Click on the button “Watch Full Recipe” to open the video of the recipe.
 
-
-
-
-
-
-        
+		![alt text](https://github.com/[zahra7]/[foodRecipe]/blob/[branch]/screen1.png?raw=true) 
+		![alt text](https://github.com/[zahra7]/[foodRecipe]/blob/[branch]/screen2.png?raw=true) 
+		![alt text](https://github.com/[zahra7]/[foodRecipe]/blob/[branch]/screen3.png?raw=true) 
+		![alt text](https://github.com/[zahra7]/[foodRecipe]/blob/[branch]/screen4.png?raw=true) 
+		![alt text](https://github.com/[zahra7]/[foodRecipe]/blob/[branch]/screen5.png?raw=true) 
        
        ## Built with
        
