@@ -14,12 +14,7 @@
         - To view the searched recipes, click on the button “Get Recipe” of a particular recipe.
         - Click on the button “Watch Full Recipe” to open the video of the recipe.
 
-		![alt text](https://github.com/[zahra7]/[foodRecipe]/blob/[branch]/screen1.png?raw=true) 
-		![alt text](https://github.com/[zahra7]/[foodRecipe]/blob/[branch]/screen2.png?raw=true) 
-		![alt text](https://github.com/[zahra7]/[foodRecipe]/blob/[branch]/screen3.png?raw=true) 
-		![alt text](https://github.com/[zahra7]/[foodRecipe]/blob/[branch]/screen4.png?raw=true) 
-		![alt text](https://github.com/[zahra7]/[foodRecipe]/blob/[branch]/screen5.png?raw=true) 
-       
+		![Screenshot](screen1.png)
        ## Built with
        
        * HTML 5 / CSS 3.
@@ -28,8 +23,7 @@
        
        ## Authors
        
-       * **FILALI Fatima Zohra ** 
-       
+       * **Zahra7F **        
        
        ## License
        
