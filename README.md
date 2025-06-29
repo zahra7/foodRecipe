@@ -51,13 +51,13 @@ Here are some screenshots of the app in action:
 
 ![Search Box](screen/screen1.png)
 
-### Meal Results
-
 ![Meal Results](screen/screen2.png)
 
-### Recipe Details
+### Meal Results
 
 ![Recipe Details](screen/screen3.png)
+
+### Recipe Details
 
 ![Recipe Details](screen/screen4.png)
 
